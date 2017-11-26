@@ -5,4 +5,4 @@ In this programming competition, your job is to program an artificial species of
 
 You can modify the CalAnt, StanfordAnt, UCLAAnt, USCAnt to program the ant, and you can run the Bugs to play the game
 
-Detailed explanation can be found in Game Manual.pdf, code can be found in CoreCode
+Detailed explanation can be found in Manual.pdf, code can be found in CoreCode
