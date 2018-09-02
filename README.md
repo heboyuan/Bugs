@@ -9,4 +9,4 @@ Detailed explanation can be found in Manual.pdf, code can be found in CoreCode
 
 ### Example program for bugs
 
-[[https://github.com/heboyuan/Bugs/blob/master/Bugs/Assets/Bugs_code.png|alt=octocat]]
+![alt text](https://github.com/heboyuan/Bugs/blob/master/Bugs/Assets/Bugs_code.png)
