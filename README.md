@@ -7,6 +7,10 @@ You can modify the CalAnt, StanfordAnt, UCLAAnt, USCAnt to program the ant, and 
 
 Detailed explanation can be found in Manual.pdf, code can be found in CoreCode
 
+### Game Play
+![alt text](https://github.com/heboyuan/Bugs/blob/master/Bugs/Assets/game_play.png)
+
 ### Example program for bugs
 
 ![alt text](https://github.com/heboyuan/Bugs/blob/master/Bugs/Assets/Bugs_code.png)
+
