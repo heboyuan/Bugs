@@ -7,5 +7,5 @@ You can modify the CalAnt, StanfordAnt, UCLAAnt, USCAnt to program the ant, and 
 
 Detailed explanation can be found in Manual.pdf, code can be found in CoreCode
 
-## Example program for bugs
+### Example program for bugs
 
